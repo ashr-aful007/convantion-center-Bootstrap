@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+/* nav section--- */
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    font-weight: 600;
+}
+nav{
+    background-color: rgb(241, 236, 236);
+    height: 60px;
+    width: 100%;
+}
+.brad-name{
+    font-size: 16px;
+    margin-top: 15px ;
+    margin-left: 15px;
+    font-weight: 700;
+}
+nav ul{
+    float: right;
+    margin-right: 20px;
+}
+nav ul li{
+    display: inline-block;
+    margin: 0 5px; 
+    margin-top: 15px;
+}
+/* nav section-------x------------*/
+.fa-solid{
+    padding: 4px;
+    background-color: #a7d3e8;
+    border-radius: 50%;
+    color: rgb(45, 22, 194);
+    margin-right: 6px;
+}
